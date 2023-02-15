@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amin
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Django,Python
-- 💞️ I’m looking to collaborate on Python,Django project
+- 🌱 I’m currently learning Django, Python
+- 💞️ I’m looking to collaborate on Python, Django project
 - 📫 How to reach me ==> biglarymohamadamin75@gmail.com
 
 <!---
